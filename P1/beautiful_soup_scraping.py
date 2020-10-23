@@ -10,13 +10,10 @@ http://books.toscrape.com/
 https://coreyms.com/
 """
 
-pip install beautifulsoup4
-
-pip install lxml
-
-pip install html5lib
-
-pip install requests
+#pip install beautifulsoup4
+#pip install lxml
+#pip install html5lib
+#pip install requests
 
 from bs4 import BeautifulSoup
 import requests
